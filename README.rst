@@ -1,4 +1,4 @@
-Flask
+Flask-Shawn
 =====
 
 Flask is a lightweight `WSGI`_ web application framework. It is designed
